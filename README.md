@@ -1,6 +1,6 @@
 ### Hi there, I'm Joshua Hassan 👋
 
-* 🌱 I’m currently learning ReactJs and FastAPI.
+* 🌱 I’m currently learning MERN stack
 * 😄 I am a fullstack developer focusing on backend. My tech stack includes but not limited to:  Django, Rest APIs, Flask, FastAPI, Git, Postgresql, Docker e.t.c
 * 👯 I’m looking forward to working as a Python Software Developer (Remote).
 * 🔭 Checkout some of my projects here => [Portfolio](https://san-tech.netlify.app/)
